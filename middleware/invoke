@@ -1,0 +1,8 @@
+#!/bin/sh
+
+#
+# jupyter tool
+#
+/usr/bin/invoke_app "$@" -t Intro2Python \
+                         -C "start_jupyter -t -T @tool Intro2Python.ipynb" \
+                         -u anaconda-7 -r none -w headless
