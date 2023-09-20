@@ -3,6 +3,6 @@
 #
 # jupyter tool
 #
-/usr/bin/invoke_app "$@" -t Intro2Python \
+/usr/bin/invoke_app "$@" -t intro2python \
                          -C "start_jupyter -t -T @tool intro2python.ipynb" \
                          -u anaconda-7 -r none -w headless
