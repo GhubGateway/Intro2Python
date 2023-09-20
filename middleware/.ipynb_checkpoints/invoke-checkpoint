@@ -1,8 +1,0 @@
-#!/bin/sh
-
-#
-# jupyter tool
-#
-/usr/bin/invoke_app "$@" -t termshape \
-                         -C "start_jupyter -t -T @tool termshape.ipynb" \
-                         -u anaconda-7 -r none -w headless
