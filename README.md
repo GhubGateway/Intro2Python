@@ -7,4 +7,4 @@ To run this in an exacutable environment where you don't need to install anythin
 
 You can clone this repository and follow the step-by-step tutorials. Each section includes code examples, detailed explanations, and exercises to practice your skills.
 
-Open "intro2python.ipynb" and you'll be able to launch each tutorail notebook. 
+Open "intro2python.ipynb" and you'll be able to launch each tutorial notebook. A guide on how to set up the proper python environment to run thsi on your own is coming soon. 
