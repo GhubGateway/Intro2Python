@@ -1,20 +1,19 @@
-Degree, Percentage
-Natural resources and conservation,  1%  
-Architecture,  2.7% 
-Area, ethnic, and gender studies,  0.2%  
-Communication/journalism, 4.4% 
-Computer and information sciences, 5% 
-Engineering,  16.1%  
-Foreign languages/literatures/linguistics, 0.9% 
-Law/legal studies, 1.4% 
-English, 1%  
-Biological/life sciences, 9.9% 
-Mathematics and statistics, 2.5%
-Philosophy and religious studies, 0.3% 
-Physical sciences,  1.8%  
-Psychology,  10.8% 
-Social sciences, 11.8% 
-Visual and performing arts,  3.4% 
-Health professions and related programs, 8.4%
-Business/marketing,  17.3%
-History,  1.1%
+Natural resources and conservation:1%
+Architecture:2.7%
+Area, ethnic, and gender studies:0.2%
+Communication/journalism:4.4%
+Computer and information sciences:5%
+Engineering:16.1%
+Foreign languages/literatures/linguistics:0.9%
+Law/legal studies:1.4%
+English:1%
+Biological/life sciences:9.9%
+Mathematics and statistics:2.5%
+Philosophy and religious studies:0.3%
+Physical sciences:1.8%
+Psychology:10.8%
+Social sciences:11.8%
+Visual and performing arts:3.4%
+Health professions and related programs:8.4%
+Business/marketing:17.3%
+History:1.1%
